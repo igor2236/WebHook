@@ -1,0 +1,7 @@
+C:\Users\julio.gabriel\Downloads\whatsapp-webhook-csharp-main\obj\Release\net6.0\PubTmp\Out\WebHookExample.exe
+C:\Users\julio.gabriel\Downloads\whatsapp-webhook-csharp-main\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\julio.gabriel\Downloads\whatsapp-webhook-csharp-main\obj\Release\net6.0\PubTmp\Out\WebHookExample.dll
+C:\Users\julio.gabriel\Downloads\whatsapp-webhook-csharp-main\obj\Release\net6.0\PubTmp\Out\WebHookExample.deps.json
+C:\Users\julio.gabriel\Downloads\whatsapp-webhook-csharp-main\obj\Release\net6.0\PubTmp\Out\WebHookExample.runtimeconfig.json
+C:\Users\julio.gabriel\Downloads\whatsapp-webhook-csharp-main\obj\Release\net6.0\PubTmp\Out\WebHookExample.pdb
+C:\Users\julio.gabriel\Downloads\whatsapp-webhook-csharp-main\obj\Release\net6.0\PubTmp\Out\Npgsql.dll

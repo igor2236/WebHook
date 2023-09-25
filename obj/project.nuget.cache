@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "x686FVq/Ls0JOqvXNdiskQ9dsaMlVPSc4McGMm8E05051kTQRRfxDRDsgQr6qOoEsXgYj3xgC/tZFL4q0vNzlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\55119\\Desktop\\whatsapp-webhook-csharp-main\\WebHookExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\55119\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\55119\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\55119\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

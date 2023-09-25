@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\julio.gabriel\Desktop\releasecs</_PublishTargetUrl>
+    <History>False|2023-07-13T20:50:43.3031188Z;False|2023-07-13T17:50:26.4100164-03:00;False|2023-07-13T17:50:20.7551532-03:00;False|2023-07-13T17:50:06.5804565-03:00;False|2023-07-13T17:49:51.4529159-03:00;False|2023-07-13T17:49:41.7480825-03:00;True|2023-07-13T12:17:08.3007170-03:00;True|2023-07-12T12:23:49.7016924-03:00;True|2023-07-11T15:52:28.8470857-03:00;True|2023-07-11T13:12:38.0052315-03:00;False|2023-07-11T13:12:17.6255114-03:00;False|2023-07-11T13:11:58.5839277-03:00;False|2023-07-11T13:11:50.2953888-03:00;True|2023-07-11T11:40:33.2213495-03:00;False|2023-07-11T11:40:24.6631945-03:00;True|2023-07-11T11:38:28.6450647-03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
