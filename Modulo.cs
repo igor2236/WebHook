@@ -9,7 +9,7 @@ namespace WebHookExample
     public static class Modulo
     {
         public static string ID_loginUser = /*(System.Security.Principal.WindowsIdentity.GetCurrent().Name);*/ Environment.UserName;
-        public static string pCONECTION_ID = "Server=localhost;Port=5432;User Id=postgres;Password=1234;Database=zap; CommandTimeout=300;";
+        public static string pCONECTION_ID = "string de conexão"
 
 
         static public int SQL_executeNonQuery(NpgsqlCommand Command)
